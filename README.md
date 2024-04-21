@@ -35,3 +35,8 @@ _description_
 [license-href]: https://github.com/antfu/wisdom-pkg/blob/main/LICENSE
 [jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
 [jsdocs-href]: https://www.jsdocs.io/package/wisdom-pkg
+
+## note
+```bash
+pnpm create vite@latest playground
+```
